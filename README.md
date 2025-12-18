@@ -6,7 +6,9 @@ Built with a **zero-server architecture**, all data processing happens directly 
 
 Try it out:
 
-whimsical-croquembouche-0cbbdd.netlify.app
+## 🚀 Live Demo
+🔗 https://whimsical-croquembouche-0cbbdd.netlify.app
+
 
 ## 🚀 Key Features
 
