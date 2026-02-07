@@ -1,6 +1,6 @@
 # Behavioural Interview Simulator Agent
 
-A React-based web application that simulates behavioural interviews using a mock AI agent. It provides real-time feedback on your answers based on the STAR method, clarity, and completeness.
+A React-based web application that simulates behavioural interviews using an AI agent. It provides real-time feedback on your answers based on the STAR method, clarity, and completeness.
 
 ## Features
 
